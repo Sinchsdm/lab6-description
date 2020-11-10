@@ -1,4 +1,4 @@
-<!-- Shradha R Nayak -->
+<!-- Sinchana B M -->
 <?php
 $f=fopen("count.txt","r+");
 $line=fgets($f);
@@ -8,4 +8,4 @@ echo "Number of times visited the web page ".$line;
 fwrite($f,$line);
 fclose($f);
 ?>
-<!-- Shradha R Nayak -->
+<!-- Sinchana B M -->
